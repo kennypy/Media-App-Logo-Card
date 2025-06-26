@@ -1,0 +1,22 @@
+{
+  "type": "module",
+  "name": "Media App Logo Card",
+  "version": "1.1.0",
+  "documentation": "https://github.com/kennypy/media-app-logo-card",
+  "codeowners": [
+    "@kennypy"
+  ],
+  "dependencies": [],
+  "requirements": [],
+  "cards": [
+    {
+      "type": "media-app-logo-card",
+      "name": "Media App Logo Card",
+      "preview": true,
+      "description": "Displays a logo for the currently active app on any media_player",
+      "js": [
+        "media-app-logo-card.js"
+      ]
+    }
+  ]
+}

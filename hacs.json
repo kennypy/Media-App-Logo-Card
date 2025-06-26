@@ -1,0 +1,15 @@
+{
+  "name": "Media App Logo Card",
+  "description": "A custom Lovelace card to dynamically display app logos on any media_player entity.",
+  "version": "1.1.0",
+  "slug": "media-app-logo-card",
+  "type": "lovelace",
+  "url": "https://github.com/kennypy/media-app-logo-card",
+  "content_in_root": true,
+  "resources": [
+    {
+      "type": "module",
+      "url": "/hacsfiles/media-app-logo-card/media-app-logo-card.js"
+    }
+  ]
+}

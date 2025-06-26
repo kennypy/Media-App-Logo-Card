@@ -1,0 +1,21 @@
+{
+  "name": "media-app-logo-card",
+  "version": "1.1.0",
+  "description": "A Home Assistant Lovelace card to display media app logos",
+  "main": "media-app-logo-card.js",
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "keywords": [
+    "home-assistant",
+    "lovelace",
+    "media-app-logo-card",
+    "custom-card"
+  ],
+  "author": "Kenneth Berry <kennybb1@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "rollup": "^2.0.0",
+    "superstruct": "^0.15.0"
+  }
+}
